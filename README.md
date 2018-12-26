@@ -11,3 +11,5 @@ Share `what we learn` and it will be better if we show the `demos`
 - `WebAssembly`
 
 - `Web Component` / `Polymer`
+
+- 表情包小程序，三月前写不完我是猪 ！ @AymaxLi
